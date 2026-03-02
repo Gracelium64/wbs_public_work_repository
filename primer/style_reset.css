@@ -5,3 +5,13 @@
   font-family: Helvetica;
   /* border: 1px solid hotpink; */
 }
+
+:root {
+  --basicBitchBlack: rgba(18, 18, 18, 1);
+  --basicBitchWhite: rgba(235, 235, 235, 1);
+}
+
+html {
+  background-color: var(--basicBitchBlack);
+  color: var(--basicBitchWhite);
+}
