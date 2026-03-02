@@ -30,9 +30,15 @@ a:hover {
 header {
   display: flex;
   justify-content: center;
-  align-items: center;
   height: 10rem;
+  align-items: center;
   text-align: center;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 5rem;
+
 }
 
 main {
@@ -83,9 +89,15 @@ li {
     height: 5rem;
   }
 
+h1 {
+   font-size: 3rem;
+
+}
+
   .gallery {
     grid-template-columns: repeat(2, 1fr);
   }
+
 }
 
 .galleryItem img {
