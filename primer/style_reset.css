@@ -9,6 +9,9 @@
 :root {
   --basicBitchBlack: rgba(18, 18, 18, 1);
   --basicBitchWhite: rgba(235, 235, 235, 1);
+  --peasantGreyLight: rgba(51, 51, 51, 1);
+  --peasantGreyDark: rgba(18, 18, 18, 1);
+  --peasantWhite: rgba(221, 221, 221, 1);
 }
 
 html {
