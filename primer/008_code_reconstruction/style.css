@@ -11,9 +11,8 @@
   --basicBitchWhite: rgba(235, 235, 235, 1);
   --greyBgLight: rgba(237, 237, 237, 1);
   --greyBgDark: rgba(196, 196, 196, 1);
-  --greyBgExtraDark: rgba(171, 171, 171, 1);
+  --greyBgVideo: rgba(171, 171, 171, 1);
   --navBg: rgba(143, 143, 143, 1);
-  --dealBtnBg: rgba(235, 235, 235, 1);
 }
 
 html {
